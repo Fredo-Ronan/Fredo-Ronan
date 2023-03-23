@@ -1,10 +1,10 @@
 # Hi there 👋
 i'm Fredo, a 4th semester student of Computer Science degree
 
-### I'm currently learning on
-* Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
-* Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
-* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" />
+### Mastered Data Structures
+* Linked List
+* Binary Tree
+* Array
 
 ### Tech Stack
 <p>
@@ -16,6 +16,12 @@ i'm Fredo, a 4th semester student of Computer Science degree
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-B0A404?logo=linux&logoColor=white&style=flat"/>
 </p>
+
+
+### I'm currently learning on
+* Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
+* Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
+* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan)](https://github.com/anuraghazra/github-readme-stats)
