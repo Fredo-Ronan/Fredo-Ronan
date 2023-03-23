@@ -1,6 +1,11 @@
 # Hi there 👋
 i'm Fredo, a 4th semester student of Computer Science degree
 
+### I'm currently learning on
+* Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
+* Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
+* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" />
+
 ### Tech Stack
 <p>
   <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" />
