@@ -11,6 +11,15 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
   <img alt="SQL Oracle" src="https://img.shields.io/badge/SQL Oracle-B54204?logo=oracle&logoColor=white&style=flat" />
 </p>
 
+### Text editor and IDE I've ever used
+<p>
+  <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0647D4?logo=visualstudiocode&logoColor=white&style=flat" />
+  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-04B093?logo=netbeans&logoColor=white&style=flat" />
+  <img alt="Dev C++" src="https://img.shields.io/badge/Dev C++-230180?logo=devc++&logoColor=white&style=flat" />
+  <img alt="Vim" src="https://img.shields.io/badge/Vim-01801D?logo=vim&logoColor=white&style=flat" />
+  <img alt="Nano" src="https://img.shields.io/badge/Nano-000000?logo=nano&logoColor=white&style=flat" />
+</p>
+
 ### Operating System Familiar with
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
@@ -22,9 +31,10 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 
 ### I'm currently learning on
-* Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
+* Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> for desktop app
 * Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
-* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" />
+* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" /> for web app development
+* Basic and Intermediate <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> for data analytics
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan)](https://github.com/anuraghazra/github-readme-stats)
