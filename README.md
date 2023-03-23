@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+i'm Fredo, a 4th semester student of Computer Science degree
 
 ### Tech Stack
 <p>
