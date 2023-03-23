@@ -4,8 +4,8 @@
 <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" />
 
 ### Operating System Familiar with
-<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
-<img alt="Linux" src="https://img.shields.io/badge/Linux-yellow?logo=linux&logoColor=white&style=flat" />
+<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-B0A404?logo=linux&logoColor=white&style=flat"/>
 
 <!--
 **Fredo-Ronan/Fredo-Ronan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
