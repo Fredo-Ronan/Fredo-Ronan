@@ -7,12 +7,17 @@ i'm Fredo, a 4th semester student of Computer Science degree
 ### Tech Stack
 <p>
   <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
+  <img alt="SQL Oracle" src="https://img.shields.io/badge/SQL Oracle-B54204?logo=oracle&logoColor=white&style=flat" />
 </p>
 
 ### Operating System Familiar with
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-B0A404?logo=linux&logoColor=white&style=flat"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-B0A404?logo=ubuntu&logoColor=white&style=flat"/>
+  <img alt="Kali Linux" src="https://img.shields.io/badge/Kali Linux-048CB5?logo=kalilinux&logoColor=white&style=flat"/>
+  <img alt="Parrot OS" src="https://img.shields.io/badge/Parrot OS-04B562?logo=parrotos&logoColor=white&style=flat"/>
+  <img alt="Dragon OS" src="https://img.shields.io/badge/Dragon OS-031194?logo=dragonos&logoColor=white&style=flat"/>
 </p>
 
 
