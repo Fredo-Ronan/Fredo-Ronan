@@ -2,7 +2,8 @@
 i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 ### Currently Working on
-* <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> Projects ideas
+* <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> challenging projects ideas
+* <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" /> fun projects just for hobby ✌
 
 ### Tech Stack
 <p>
