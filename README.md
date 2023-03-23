@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Tech Stack
-<img alt="C" src="https://img.shields.io/badge/C-3178C6?logo=C&logoColor=white&style=flat" />
+<img alt="C lang" src="https://img.shields.io/badge/C-3178C6?logo=C&logoColor=white&style=flat" />
 
 <!--
 **Fredo-Ronan/Fredo-Ronan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
