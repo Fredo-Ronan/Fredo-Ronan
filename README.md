@@ -1,10 +1,8 @@
 # Hi there 👋
 i'm Fredo, a 4th semester student of Computer Science degree
 
-### Mastered Data Structures
-* Linked List
-* Binary Tree
-* Array
+### Currently Working on
+* <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> Projects ideas
 
 ### Tech Stack
 <p>
