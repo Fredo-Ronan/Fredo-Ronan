@@ -11,6 +11,9 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-B0A404?logo=linux&logoColor=white&style=flat"/>
 </p>
 
+
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan &layout=compact />
+
 <!--
 **Fredo-Ronan/Fredo-Ronan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
