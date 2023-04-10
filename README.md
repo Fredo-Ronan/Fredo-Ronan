@@ -1,6 +1,8 @@
 # Hi there 👋
 i'm Fredo, a 2nd year student of Informatics Engineering degree
 
+![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
+
 ### Currently Working on
 * <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> challenging projects ideas
 * <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" /> fun projects just for hobby ✌
