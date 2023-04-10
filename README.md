@@ -3,11 +3,11 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
 
-### Currently Working on
+### 🙇‍♂️ Currently Working on
 * <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> challenging projects ideas
 * <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" /> fun projects just for hobby ✌
 
-### Tech Stack
+### 📚 Tech Stack
 <p>
   <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
@@ -15,7 +15,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
   <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco Packet Tracer-017D80?logo=cisco&logoColor=white&style=flat" />
 </p>
 
-### Text editor and IDE I've ever used
+### 📝 Text editor and IDE I've ever used
 <p>
   <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0647D4?logo=visualstudiocode&logoColor=white&style=flat" />
   <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-04B093?logo=netbeans&logoColor=white&style=flat" />
@@ -24,7 +24,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
   <img alt="Nano" src="https://img.shields.io/badge/Nano-000000?logo=nano&logoColor=white&style=flat" />
 </p>
 
-### Operating System Familiar with
+### 💻 Operating System Familiar with
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-B0A404?logo=ubuntu&logoColor=white&style=flat"/>
@@ -34,7 +34,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 </p>
 
 
-### I'm currently learning on
+### 🙇‍♂️ I'm currently learning on
 * Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> for desktop app
 * Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
 * Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" /> for web app development
@@ -44,7 +44,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan)](https://github.com/anuraghazra/github-readme-stats)
 
-### My GitHub Trophies
+### 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fredo-Ronan&theme=onedark&column=6)](https://github.com/Fredo-Ronan/github-profile-trophy)
 
 <!--
