@@ -44,6 +44,9 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan)](https://github.com/anuraghazra/github-readme-stats)
 
+### My GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fredo-Ronan&theme=onedark&column=6)](https://github.com/Fredo-Ronan/github-profile-trophy)
+
 <!--
 **Fredo-Ronan/Fredo-Ronan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
