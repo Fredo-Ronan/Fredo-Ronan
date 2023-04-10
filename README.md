@@ -42,10 +42,13 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 * Basic <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-24369C?logo=microsoft+sql+server&logoColor=white&style=flat" /> for DBA (Database Administrator)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)
 
+<!--
 ### 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fredo-Ronan&theme=onedark&column=6)](https://github.com/Fredo-Ronan/github-profile-trophy)
+
 
 <!--
 **Fredo-Ronan/Fredo-Ronan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
