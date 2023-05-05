@@ -20,6 +20,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
   <img alt="VS Code" src="https://img.shields.io/badge/VS Code-0647D4?logo=visualstudiocode&logoColor=white&style=flat" />
   <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-04B093?logo=netbeans&logoColor=white&style=flat" />
   <img alt="Dev C++" src="https://img.shields.io/badge/Dev C++-230180?logo=devc++&logoColor=white&style=flat" />
+  <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-230180?logo=notepad++&logoColor=white&style=flat" />
   <img alt="Vim" src="https://img.shields.io/badge/Vim-01801D?logo=vim&logoColor=white&style=flat" />
   <img alt="Nano" src="https://img.shields.io/badge/Nano-000000?logo=nano&logoColor=white&style=flat" />
 </p>
