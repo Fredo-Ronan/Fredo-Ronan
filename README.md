@@ -43,7 +43,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 * Basic <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-24369C?logo=microsoft+sql+server&logoColor=white&style=flat" /> for DBA (Database Administrator)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)
 
 <!--
