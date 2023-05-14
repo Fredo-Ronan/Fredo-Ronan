@@ -11,6 +11,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 <p>
   <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1889C9?logo=mysql&logoColor=white&style=flat" />
   <img alt="SQL Oracle" src="https://img.shields.io/badge/SQL Oracle-B54204?logo=oracle&logoColor=white&style=flat" />
   <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco Packet Tracer-017D80?logo=cisco&logoColor=white&style=flat" />
 </p>
