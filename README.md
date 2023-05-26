@@ -47,6 +47,9 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)
 
+## Another Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Java-Class-Utilities&theme=radical)](https://github.com/Fredo-Ronan/Java-Class-Utilities)
+
 <!--
 ### 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fredo-Ronan&theme=onedark&column=6)](https://github.com/Fredo-Ronan/github-profile-trophy)
