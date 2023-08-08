@@ -40,7 +40,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 * Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> for desktop app
 * Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
 * Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" /> for web app development
-* Basic and Intermediate <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> for data analytics
+* Basic and Intermediate <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> for automation and data analytics
 
 <!-- Basic <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-24369C?logo=microsoft+sql+server&logoColor=white&style=flat" /> for DBA (Database Administrator) -->
 
