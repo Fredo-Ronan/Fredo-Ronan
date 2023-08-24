@@ -46,7 +46,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)<br>
+![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=false&show_icons=true&theme=radical)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
 
 ## Another Pinned Repositories
