@@ -4,14 +4,15 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
 
 ### 🙇‍♂️ Currently Working on
-* <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> challenging projects ideas
-* <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" /> fun projects just for hobby ✌
+* <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> challenging projects ideas
+* <img alt="C++" src="https://img.shields.io/badge/C++-CF00DE?logo=Cplusplus&logoColor=white&style=flat" /> fun projects just for hobby ✌
 
 ### 📚 Tech Stack
 <p>
   <img alt="C lang" src="https://img.shields.io/badge/C lang-3178C6?logo=C&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1889C9?logo=mysql&logoColor=white&style=flat" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-CF00DE?logo=Cplusplus&logoColor=white&style=flat" />
   <img alt="SQL Oracle" src="https://img.shields.io/badge/SQL Oracle-B54204?logo=oracle&logoColor=white&style=flat" />
   <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco Packet Tracer-017D80?logo=cisco&logoColor=white&style=flat" />
 </p>
@@ -37,10 +38,11 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 
 ### 🙇‍♂️ I'm currently learning on
-* Basic <img alt="Java" src="https://img.shields.io/badge/Java-B00420?logo=java&logoColor=white&style=flat" /> for desktop app
-* Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html&logoColor=white&style=flat" />
-* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" /> for web app development
+* Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html5&logoColor=white&style=flat" /> and <img alt="CSS" src="https://img.shields.io/badge/CSS-390052?logo=css3&logoColor=white&style=flat" /> for frontend website
+* Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" /> for web app development (frontend and backend)
 * Basic and Intermediate <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> for automation and data analytics
+* Basic <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7802C7?logo=kotlin&logoColor=white&style=flat" /> for Android App Development
+* Basic <img alt="Dart" src="https://img.shields.io/badge/Dart-0247C7?logo=dart&logoColor=white&style=flat" /> for Android App Development
 
 <!-- Basic <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-24369C?logo=microsoft+sql+server&logoColor=white&style=flat" /> for DBA (Database Administrator) -->
 
