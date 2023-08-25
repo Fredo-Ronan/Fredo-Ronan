@@ -53,7 +53,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 ## Another Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Java-Class-Utilities&theme=radical)](https://github.com/Fredo-Ronan/Java-Class-Utilities)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Jawa-lang&theme=radical)](https://github.com/Fredo-Ronan/Jawa-lang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
 
 <!--
 ### 🏆 My GitHub Trophies
