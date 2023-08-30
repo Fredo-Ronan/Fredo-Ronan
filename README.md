@@ -56,6 +56,8 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Java-Class-Utilities&theme=radical)](https://github.com/Fredo-Ronan/Java-Class-Utilities)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6ToOql4OI4n07Kg4gR-UmA?label=YOUTUBE-SUBSCRIBERS&logo=Youtube&style=for-the-badge)](https://www.youtube.com/@fredocode)
+
 <!--
 ### 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fredo-Ronan&theme=onedark&column=6)](https://github.com/Fredo-Ronan/github-profile-trophy)
