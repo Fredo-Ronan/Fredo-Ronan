@@ -3,9 +3,11 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
 
+<!--
 ### 🙇‍♂️ Currently Working on
 * <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> challenging projects ideas
 * <img alt="C++" src="https://img.shields.io/badge/C++-CF00DE?logo=Cplusplus&logoColor=white&style=flat" /> fun projects just for hobby ✌
+-->
 
 ### 📚 Tech Stack
 <p>
@@ -37,16 +39,18 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
   <img alt="Dragon OS" src="https://img.shields.io/badge/Dragon OS-031194?logo=dragonos&logoColor=white&style=flat"/>
 </p>
 
-
+<!--
 ### 🙇‍♂️ I'm currently learning on
 * Intermediate <img alt="HTML" src="https://img.shields.io/badge/HTML-E05402?logo=html5&logoColor=white&style=flat" /> and <img alt="CSS" src="https://img.shields.io/badge/CSS-390052?logo=css3&logoColor=white&style=flat" /> for frontend website
 * Intermediate <img alt="Javascript" src="https://img.shields.io/badge/Javascript-B5B204?logo=javascript&logoColor=white&style=flat" /> for web app development (frontend and backend)
 * Basic and Intermediate <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> for automation and data analytics
 * Basic <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7802C7?logo=kotlin&logoColor=white&style=flat" /> for Android App Development
 * Basic <img alt="Dart" src="https://img.shields.io/badge/Dart-0247C7?logo=dart&logoColor=white&style=flat" /> for Android App Development
+-->
 
 <!-- Basic <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-24369C?logo=microsoft+sql+server&logoColor=white&style=flat" /> for DBA (Database Administrator) -->
 
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=10&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)<br>
