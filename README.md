@@ -9,7 +9,7 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 * <img alt="C++" src="https://img.shields.io/badge/C++-CF00DE?logo=Cplusplus&logoColor=white&style=flat" /> fun projects just for hobby ✌
 -->
 
-<a href="https://fredo-ronan.github.io/about.html">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
+<a href="https://fredo-ronan.github.io/about.html" target="_blank">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
 
 <!--
 ### 📚 Tech Stack
