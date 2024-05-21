@@ -62,6 +62,8 @@ i'm Fredo, a 2nd year student of Informatics Engineering degree
 ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
 
+<img src="https://myreadme.vercel.app/api/embed/Fredo-Ronan?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 ## Another Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Android-IG-Downloader-using-Python&theme=radical)]([https://github.com/Fredo-Ronan/Java-Class-Utilities](https://github.com/Fredo-Ronan/Android-IG-Downloader-using-Python))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
