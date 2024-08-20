@@ -1,5 +1,5 @@
 # Hi there 👋
-i'm Fredo, a 2nd year student of Informatics Engineering degree
+i'm Fredo, a student of Informatics Engineering degree
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
 
