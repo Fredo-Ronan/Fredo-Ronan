@@ -59,9 +59,9 @@ i'm Fredo, a student of Informatics Engineering degree
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=10&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Fredo's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Fredo-Ronan&theme=dark)
-[![Fredo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Weekly%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)<br> -->
+<!-- ![Fredo's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Fredo-Ronan&theme=dark) -->
+![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)<br>
+[![Fredo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Weekly%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/Fredo-Ronan?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
@@ -74,7 +74,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!--
 <a href="https://www.youtube.com/@fredocode" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6ToOql4OI4n07Kg4gR-UmA?label=YOUTUBE-SUBSCRIBERS&logo=Youtube&style=for-the-badge)</a>
 
-<!--
+
 ### 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fredo-Ronan&theme=onedark&column=6)](https://github.com/Fredo-Ronan/github-profile-trophy)
 
