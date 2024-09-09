@@ -80,6 +80,10 @@ i'm Fredo, a student of Informatics Engineering degree
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Android-IG-Downloader-using-Python&theme=radical)]([https://github.com/Fredo-Ronan/Java-Class-Utilities](https://github.com/Fredo-Ronan/Android-IG-Downloader-using-Python))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 <a href="https://www.youtube.com/@fredocode" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6ToOql4OI4n07Kg4gR-UmA?label=YOUTUBE-SUBSCRIBERS&logo=Youtube&style=for-the-badge)</a>
 
