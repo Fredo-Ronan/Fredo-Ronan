@@ -6,16 +6,16 @@ i'm Fredo, a student of Informatics Engineering degree
 
 <a href="https://fredo-ronan.github.io/about.html">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
 
-
+<!--
 <div align="center">
 <!--   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> -->
 
   <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> -->
-  
+ <!-- 
   <img src="https://github.com/user-attachments/assets/f37b5d3a-e9e5-46bc-9280-a8fb7fe18d5d" width="100%"/>
 
 </div>
-
+-->
 <!--
 ### 🙇‍♂️ Currently Working on
 * <img alt="Python" src="https://img.shields.io/badge/Python-01073D?logo=python&logoColor=white&style=flat" /> challenging projects ideas
@@ -70,16 +70,11 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- ![Fredo's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Fredo-Ronan&theme=dark) -->
 ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
-[![Fredo's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Weekly%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Fredo's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=18&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/Fredo-Ronan?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
-
-## Another Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Android-IG-Downloader-using-Python&theme=radical)]([https://github.com/Fredo-Ronan/Java-Class-Utilities](https://github.com/Fredo-Ronan/Android-IG-Downloader-using-Python))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2050%20mins-blue)
@@ -146,6 +141,11 @@ C#                       2 repos             █░░░░░░░░░░�
 
  Last Updated on 09/09/2024 16:10:57 UTC
 <!--END_SECTION:waka-->
+
+
+## Another Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Android-IG-Downloader-using-Python&theme=radical)]([https://github.com/Fredo-Ronan/Java-Class-Utilities](https://github.com/Fredo-Ronan/Android-IG-Downloader-using-Python))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
 
 <!--
 <a href="https://www.youtube.com/@fredocode" target="_blank">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6ToOql4OI4n07Kg4gR-UmA?label=YOUTUBE-SUBSCRIBERS&logo=Youtube&style=for-the-badge)</a>
