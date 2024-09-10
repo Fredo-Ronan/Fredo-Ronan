@@ -4,8 +4,6 @@ i'm Fredo, a student of Informatics Engineering degree
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
 <base target="_blank">
 
-<a href="https://fredo-ronan.github.io/about.html">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
-
 <!--
 <div align="center">
 <!--   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/> -->
@@ -64,8 +62,6 @@ i'm Fredo, a student of Informatics Engineering degree
 -->
 
 <!-- Basic <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-24369C?logo=microsoft+sql+server&logoColor=white&style=flat" /> for DBA (Database Administrator) -->
-
-<hr>
 
 <!-- ![Fredo's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Fredo-Ronan&theme=dark) -->
 <!-- ![Fredo-Ronan GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fredo-Ronan&count_private=true&show_icons=true&theme=radical) -->
@@ -139,10 +135,14 @@ C#                       2 repos             █░░░░░░░░░░�
  Last Updated on 10/09/2024 00:53:30 UTC
 <!--END_SECTION:waka-->
 
+<hr>
 
 [![Fredo's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=18&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=20&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
+
+
+<a href="https://fredo-ronan.github.io/about.html">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
 
 
 ## Another Pinned Repositories
