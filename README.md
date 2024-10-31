@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
@@ -102,18 +102,18 @@ Sunday                   198 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               27 hrs 26 mins      ███████████████████████░░   93.90 % 
-Bash                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Prisma                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               24 hrs 57 mins      ███████████████████████░░   93.83 % 
+Bash                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Prisma                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 45 mins      ████████████████████████░   94.96 % 
-Linux                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Windows                  25 hrs 7 mins       ████████████████████████░   94.46 % 
+Linux                    1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +133,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 00:56:59 UTC
+ Last Updated on 31/10/2024 00:57:22 UTC
 <!--END_SECTION:waka-->
 
 <hr>
