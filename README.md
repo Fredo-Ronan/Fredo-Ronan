@@ -71,9 +71,52 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+🌆 Daytime                788 commits         ██████████░░░░░░░░░░░░░░░   38.63 % 
+🌃 Evening                811 commits         ██████████░░░░░░░░░░░░░░░   39.75 % 
+🌙 Night                  146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Tuesday                  253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Thursday                 344 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Friday                   302 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 387 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Sunday                   239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               20 hrs 11 mins      ███████████████████░░░░░░   75.49 % 
+C++                      3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+HTTP Request             1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Prisma                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+
+🔥 Editors: 
+WebStorm                 22 hrs 48 mins      █████████████████████░░░░   85.30 % 
+VS Code                  3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Sublime Text             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+
+💻 Operating System: 
+Windows                  26 hrs 29 mins      █████████████████████████   99.05 % 
+Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -92,7 +135,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/12/2024 01:03:09 UTC
+ Last Updated on 11/12/2024 01:01:34 UTC
 <!--END_SECTION:waka-->
 
 <hr>
