@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -102,18 +102,17 @@ Sunday                   262 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   10 hrs 35 mins      █████████████████████████   98.80 % 
-Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   11 hrs 15 mins      █████████████████████░░░░   85.22 % 
+HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 41 mins      █████████████████████████   99.61 % 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+VS Code                  13 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +132,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 00:56:39 UTC
+ Last Updated on 28/12/2024 00:55:59 UTC
 <!--END_SECTION:waka-->
 
 <hr>
