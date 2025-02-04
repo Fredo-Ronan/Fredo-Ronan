@@ -102,15 +102,13 @@ Sunday                   276 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 mins              █████████████████████████   98.87 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +128,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 00:56:45 UTC
+ Last Updated on 04/02/2025 00:56:07 UTC
 <!--END_SECTION:waka-->
 
 <hr>
