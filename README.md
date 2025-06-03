@@ -102,18 +102,13 @@ Sunday                   265 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 40 mins        ███████████████████░░░░░░   75.38 % 
-JSON                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Bash                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        ██████████████████░░░░░░░   71.37 % 
-WebStorm                 38 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,7 +128,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2025 01:08:19 UTC
+ Last Updated on 03/06/2025 01:07:02 UTC
 <!--END_SECTION:waka-->
 
 <hr>
