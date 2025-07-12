@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -102,17 +102,16 @@ Sunday                   265 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               6 hrs 55 mins       ███████████████████████░░   91.85 % 
-Text                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Prisma                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               4 hrs 52 mins       ██████████████████████░░░   88.11 % 
+Text                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Prisma                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +131,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2025 01:09:44 UTC
+ Last Updated on 12/07/2025 01:11:33 UTC
 <!--END_SECTION:waka-->
 
 <hr>
