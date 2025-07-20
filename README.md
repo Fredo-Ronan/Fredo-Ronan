@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -102,16 +102,16 @@ Sunday                   265 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 29 mins       ████████████████████████░   94.40 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               10 hrs 38 mins      ████████████████████████░   95.33 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Prisma                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +131,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 01:08:37 UTC
+ Last Updated on 20/07/2025 01:17:39 UTC
 <!--END_SECTION:waka-->
 
 <hr>
