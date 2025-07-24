@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-567%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
@@ -102,17 +102,17 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 hrs 5 mins       ████████████████████░░░░░   80.78 % 
-JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Prisma                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Text                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               17 hrs 27 mins      ███████████████████░░░░░░   76.23 % 
+Python                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Text                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Prisma                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 12 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 01:12:25 UTC
+ Last Updated on 24/07/2025 01:11:45 UTC
 <!--END_SECTION:waka-->
 
 <hr>
