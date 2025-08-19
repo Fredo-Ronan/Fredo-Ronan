@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -79,20 +79,20 @@ i'm Fredo, a student of Informatics Engineering degree
 
 ```text
 🌞 Morning                329 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-🌆 Daytime                848 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌃 Evening                850 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+🌆 Daytime                848 commits         ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌃 Evening                850 commits         ██████████░░░░░░░░░░░░░░░   38.62 % 
+🌙 Night                  174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Tuesday                  272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Wednesday                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Tuesday                  273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Wednesday                278 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 Thursday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 Friday                   347 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Saturday                 400 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Sunday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 400 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Sunday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 
@@ -102,15 +102,13 @@ Sunday                   260 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 35 mins       ████████████████████████░   97.36 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +128,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2025 01:13:18 UTC
+ Last Updated on 19/08/2025 01:05:43 UTC
 <!--END_SECTION:waka-->
 
 <hr>
