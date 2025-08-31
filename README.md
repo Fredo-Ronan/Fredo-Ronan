@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
@@ -102,17 +102,18 @@ Sunday                   273 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ██████████████████░░░░░░░   70.09 % 
-Python                   1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+TypeScript               3 hrs 26 mins       █████████████░░░░░░░░░░░░   50.57 % 
+Kotlin                   2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
+Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 35 mins       █████████████████░░░░░░░░   67.43 % 
+Android Studio           2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.57 % 
 
 💻 Operating System: 
-Windows                  4 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +133,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 00:58:54 UTC
+ Last Updated on 31/08/2025 01:06:00 UTC
 <!--END_SECTION:waka-->
 
 <hr>
