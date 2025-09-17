@@ -71,49 +71,9 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                339 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-🌆 Daytime                886 commits         ██████████░░░░░░░░░░░░░░░   38.37 % 
-🌃 Evening                900 commits         ██████████░░░░░░░░░░░░░░░   38.98 % 
-🌙 Night                  184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Tuesday                  293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Thursday                 368 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Friday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Saturday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Sunday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Kotlin                   3 hrs 20 mins       ████████████████████░░░░░   79.30 % 
-Bash                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-
-🔥 Editors: 
-Android Studio           3 hrs 26 mins       ████████████████████░░░░░   81.74 % 
-Sublime Text             46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-
-💻 Operating System: 
-Windows                  3 hrs 26 mins       ████████████████████░░░░░   81.74 % 
-Linux                    46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -132,7 +92,7 @@ Kotlin                   3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Fredo-Ronan/Fredo-Ronan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 00:59:56 UTC
+ Last Updated on 17/09/2025 00:59:32 UTC
 <!--END_SECTION:waka-->
 
 <hr>
