@@ -144,9 +144,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
 
 
-<a href="https://fredo-ronan.github.io/about.html">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
+<a href="https://fredo-code.vercel.app/about">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
 
-
+<!--
 ## Another Pinned Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=Android-IG-Downloader-using-Python&theme=radical)]([https://github.com/Fredo-Ronan/Java-Class-Utilities](https://github.com/Fredo-Ronan/Android-IG-Downloader-using-Python))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredo-Ronan&repo=RSA_Encryption_Algorithm&theme=radical)](https://github.com/Fredo-Ronan/RSA_Encryption_Algorithm)
