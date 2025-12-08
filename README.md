@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -102,17 +102,17 @@ Sunday                   320 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   6 hrs 23 mins       █████████████░░░░░░░░░░░░   50.09 % 
-TypeScript               4 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.18 % 
-Prisma                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Jenkinsfile              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Vue.js                   7 hrs 1 min         █████████████░░░░░░░░░░░░   50.70 % 
+TypeScript               4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.85 % 
+Prisma                   1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Jenkinsfile              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +128,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2025 01:13:24 UTC
+ Last Updated on 08/12/2025 01:07:47 UTC
 <!--END_SECTION:waka-->
 
 <hr>
