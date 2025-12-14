@@ -71,7 +71,7 @@ i'm Fredo, a student of Informatics Engineering degree
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-797%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-800%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -102,18 +102,18 @@ Sunday                   322 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs               ███████████░░░░░░░░░░░░░░   42.81 % 
-Vue.js                   4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-TSConfig                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Groovy                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               9 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
+Vue.js                   5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+TSConfig                 1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Groovy                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 57 mins      ███████████████████████░░   90.11 % 
-Android Studio           2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+VS Code                  19 hrs 59 mins      ██████████████████████░░░   89.91 % 
+Android Studio           2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 
 💻 Operating System: 
-Windows                  21 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +129,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2025 01:04:49 UTC
+ Last Updated on 14/12/2025 01:14:21 UTC
 <!--END_SECTION:waka-->
 
 <hr>
