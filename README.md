@@ -1,5 +1,5 @@
 # Hi there 👋
-i'm Fredo, a student of Informatics Engineering degree
+i'm Fredo, a graduated CS student with interest of playing role as Backend Developer or Full Stack Developer
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Fredo-Ronan.Fredo-Ronan)
 <base target="_blank">
