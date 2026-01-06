@@ -71,9 +71,9 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -102,19 +102,17 @@ Sunday                   323 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   22 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-JSON                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Prisma                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JSON                     15 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
+Prisma                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.24 % 
+Vue.js                   12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+TypeScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        ██████████████████████░░░   86.24 % 
-Android Studio           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    48 mins             ███████████████░░░░░░░░░░   59.02 % 
-Windows                  33 mins             ██████████░░░░░░░░░░░░░░░   40.98 % 
+Linux                    48 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +128,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:17:44 UTC
+ Last Updated on 06/01/2026 01:11:12 UTC
 <!--END_SECTION:waka-->
 
 <hr>
