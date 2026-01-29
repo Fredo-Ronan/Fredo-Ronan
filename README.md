@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2058%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.26%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,17 +102,17 @@ Sunday                   323 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C                        19 mins             ██████████████░░░░░░░░░░░   57.47 % 
-Vue.js                   8 mins              ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Python                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Docker                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C                        1 hr 31 mins        ██████████████████████░░░   86.38 % 
+Vue.js                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+SSH Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +128,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 01:12:40 UTC
+ Last Updated on 29/01/2026 01:22:42 UTC
 <!--END_SECTION:waka-->
 
 <hr>
