@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.28%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,16 +102,16 @@ Sunday                   330 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 26 mins       ███████████████████████░░   92.28 % 
-YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   1 hr 41 mins        █████████████████████░░░░   85.87 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 28 mins       ███████████████████████░░   92.97 % 
-Linux                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Windows                  1 hr 42 mins        ██████████████████████░░░   86.72 % 
+Linux                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -127,7 +127,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 01:44:50 UTC
+ Last Updated on 02/03/2026 01:24:53 UTC
 <!--END_SECTION:waka-->
 
 <hr>
