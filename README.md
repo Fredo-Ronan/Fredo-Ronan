@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,18 +102,18 @@ Sunday                   342 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.77 % 
-YAML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Docker                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+TypeScript               1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+HTML                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Go                       48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Docker                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 40 mins        █████████████░░░░░░░░░░░░   50.48 % 
-Linux                    1 hr 38 mins        ████████████░░░░░░░░░░░░░   49.52 % 
+Windows                  3 hrs 27 mins       █████████████████░░░░░░░░   67.83 % 
+Linux                    1 hr 38 mins        ████████░░░░░░░░░░░░░░░░░   32.17 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,7 +129,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2026 02:00:44 UTC
+ Last Updated on 20/04/2026 02:02:17 UTC
 <!--END_SECTION:waka-->
 
 <hr>
