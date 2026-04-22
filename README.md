@@ -133,12 +133,12 @@ Go                       2 repos             █░░░░░░░░░░�
 
 <hr>
 
-[![Fredo's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=20&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Fredo's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fredo_Ronan&theme=tokyonight&layout=compact&custom_title=Fredo's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredo-Ronan&theme=tokyonight&langs_count=20&layout=compact&public=true)](https://github.com/anuraghazra/github-readme-stats) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fredo-Ronan&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&background=50%2C1F4B8D%2C0C2436&dates=BCBCBC)](https://git.io/streak-stats)
 
 
-<a href="https://fredo-code.vercel.app/about">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
+<a href="https://fredoronan.web.id">![Read More About Me](https://img.shields.io/badge/Read_More_About_Me_↗-0077B5?style=for-the-badge&logoColor=white)</a>
 
 <!--
 ## Another Pinned Repositories
