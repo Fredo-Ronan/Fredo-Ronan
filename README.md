@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.35%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,17 +102,17 @@ Sunday                   342 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 37 mins       ███████████████░░░░░░░░░░   59.66 % 
-HTML                     3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-TypeScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Go                       10 hrs 44 mins      ████████████████░░░░░░░░░   63.12 % 
+HTML                     4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+TypeScript               50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JavaScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -128,7 +128,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/04/2026 02:00:36 UTC
+ Last Updated on 24/04/2026 02:00:28 UTC
 <!--END_SECTION:waka-->
 
 <hr>
