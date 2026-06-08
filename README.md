@@ -71,24 +71,65 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.45%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                470 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+🌆 Daytime                1131 commits        █████████░░░░░░░░░░░░░░░░   37.57 % 
+🌃 Evening                1178 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌙 Night                  231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Tuesday                  397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Wednesday                408 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Thursday                 469 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Friday                   450 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 505 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Sunday                   369 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+TypeScript               3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+YAML                     3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 35 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  10 hrs 16 mins      ██████████████████░░░░░░░   70.43 % 
+Linux                    4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Vue                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Vue                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 
 
 
 
- Last Updated on 07/06/2026 02:50:48 UTC
+ Last Updated on 08/06/2026 02:53:40 UTC
 <!--END_SECTION:waka-->
 
 <hr>
