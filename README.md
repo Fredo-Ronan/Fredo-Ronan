@@ -104,17 +104,17 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Python                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Go                       30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Inno Setup               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Markdown                 40 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Go                       30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Bash                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Inno Setup               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 01:52:12 UTC
+ Last Updated on 05/08/2026 01:52:49 UTC
 <!--END_SECTION:waka-->
 
 <hr>
