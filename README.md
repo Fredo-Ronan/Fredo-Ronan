@@ -77,52 +77,6 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.45%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-🌆 Daytime                1118 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                1154 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
-🌙 Night                  231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Tuesday                  387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Wednesday                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Thursday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Friday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Saturday                 494 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Sunday                   371 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Markdown                 40 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
-Go                       30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Bash                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Inno Setup               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -136,7 +90,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:54:22 UTC
+ Last Updated on 07/08/2026 02:16:11 UTC
 <!--END_SECTION:waka-->
 
 <hr>
