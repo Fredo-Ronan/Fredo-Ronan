@@ -104,11 +104,11 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████████   99.89 % 
+Python                   19 mins             █████████████████████████   98.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
 VS Code                  19 mins             █████████████████████████   99.89 % 
@@ -137,7 +137,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 02:15:45 UTC
+ Last Updated on 07/09/2026 02:13:10 UTC
 <!--END_SECTION:waka-->
 
 <hr>
