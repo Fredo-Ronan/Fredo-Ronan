@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C157%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C158%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2010%20mins-blue?style=flat)
 
@@ -104,18 +104,18 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   24 mins             █████████████████░░░░░░░░   67.23 % 
-JavaScript               11 mins             ████████░░░░░░░░░░░░░░░░░   31.72 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               42 mins             ███████████░░░░░░░░░░░░░░   45.59 % 
+Markdown                 38 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   99.94 % 
-Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  1 hr 32 mins        █████████████████████████   99.98 % 
+Android Studio           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +137,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 02:22:21 UTC
+ Last Updated on 12/09/2026 02:30:06 UTC
 <!--END_SECTION:waka-->
 
 <hr>
