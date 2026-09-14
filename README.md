@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2010%20mins-blue?style=flat)
 
@@ -104,17 +104,17 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 13 mins        █████████████░░░░░░░░░░░░   52.76 % 
-Markdown                 49 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Go                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+JavaScript               1 hr 13 mins        ████████████░░░░░░░░░░░░░   46.99 % 
+Markdown                 1 hr 1 min          ██████████░░░░░░░░░░░░░░░   39.16 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Go                       4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 02:28:24 UTC
+ Last Updated on 14/09/2026 02:45:17 UTC
 <!--END_SECTION:waka-->
 
 <hr>
