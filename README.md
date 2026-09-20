@@ -104,17 +104,14 @@ Sunday                   371 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               31 mins             ████████████░░░░░░░░░░░░░   48.24 % 
-Markdown                 23 mins             █████████░░░░░░░░░░░░░░░░   36.43 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Go                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 12 mins             ██████████████████░░░░░░░   70.35 % 
+Python                   5 mins              ███████░░░░░░░░░░░░░░░░░░   29.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +133,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 02:33:04 UTC
+ Last Updated on 20/09/2026 02:44:45 UTC
 <!--END_SECTION:waka-->
 
 <hr>
