@@ -104,11 +104,11 @@ Sunday                   373 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      29 mins             ███████████░░░░░░░░░░░░░░   44.74 % 
-Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Inno Setup               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Batchfile                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Vue                      29 mins             ███████████░░░░░░░░░░░░░░   45.20 % 
+Bash                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Inno Setup               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Batchfile                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
 VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 02:50:32 UTC
+ Last Updated on 26/09/2026 02:53:40 UTC
 <!--END_SECTION:waka-->
 
 <hr>
