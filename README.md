@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2010%20mins-blue?style=flat)
 
@@ -104,16 +104,17 @@ Sunday                   373 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               50 mins             ██████████████░░░░░░░░░░░   57.57 % 
-Go                       21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+JavaScript               50 mins             █████████████░░░░░░░░░░░░   53.88 % 
+Go                       21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+JSON                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -135,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 03:57:52 UTC
+ Last Updated on 10/10/2026 03:42:52 UTC
 <!--END_SECTION:waka-->
 
 <hr>
