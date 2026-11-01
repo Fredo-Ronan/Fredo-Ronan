@@ -71,7 +71,7 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 <!-- [![Fredo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fredo-Ronan&theme=github-compact)](https://github.com/Fredo-Ronan/github-readme-activity-graph) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C168%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2010%20mins-blue?style=flat)
 
@@ -81,19 +81,19 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 
 ```text
 🌞 Morning                465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌆 Daytime                1119 commits        █████████░░░░░░░░░░░░░░░░   37.69 % 
-🌃 Evening                1154 commits        ██████████░░░░░░░░░░░░░░░   38.87 % 
+🌆 Daytime                1120 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
+🌃 Evening                1154 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
 🌙 Night                  231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Monday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 Tuesday                  387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Wednesday                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Friday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Saturday                 494 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Sunday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 ```
 
@@ -104,17 +104,17 @@ Sunday                   373 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   2 hrs 41 mins       ███████████████████░░░░░░   76.40 % 
-Docker                   31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   3 hrs 18 mins       █████████████████░░░░░░░░   69.39 % 
+Docker                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Go                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,7 +136,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:34:08 UTC
+ Last Updated on 01/11/2026 03:40:14 UTC
 <!--END_SECTION:waka-->
 
 <hr>
