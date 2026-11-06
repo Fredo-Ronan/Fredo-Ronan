@@ -75,26 +75,26 @@ i'm Fredo, a graduated CS student with interest of playing role as Backend Devel
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2010%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.45%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.44%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                465 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌆 Daytime                1120 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                1154 commits        ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 Night                  231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+🌞 Morning                464 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌆 Daytime                1120 commits        █████████░░░░░░░░░░░░░░░░   37.76 % 
+🌃 Evening                1151 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  231 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Wednesday                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Thursday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Friday                   452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Monday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Tuesday                  387 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Wednesday                401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Thursday                 458 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Friday                   451 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Saturday                 495 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Sunday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 ```
 
 
@@ -104,18 +104,18 @@ Sunday                   373 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 48 mins       ███████████████░░░░░░░░░░   61.20 % 
-Docker                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Go                       17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Python                   3 hrs 52 mins       ████████████████░░░░░░░░░   62.36 % 
+Docker                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Go                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         ████████████████████████░   96.64 % 
-Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Windows                  5 hrs 59 mins       ████████████████████████░   96.62 % 
+Linux                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +137,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 04:34:22 UTC
+ Last Updated on 06/11/2026 04:33:34 UTC
 <!--END_SECTION:waka-->
 
 <hr>
