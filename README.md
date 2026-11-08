@@ -104,18 +104,18 @@ Sunday                   373 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 37 mins        █████████████░░░░░░░░░░░░   50.72 % 
-Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Docker                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Go                       19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Python                   58 mins             █████████████░░░░░░░░░░░░   50.23 % 
+Docker                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Git Config               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 12 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs               ███████████████████████░░   93.48 % 
-Linux                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Windows                  1 hr 43 mins        ██████████████████████░░░   89.15 % 
+Linux                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -137,7 +137,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026 03:59:44 UTC
+ Last Updated on 08/11/2026 03:44:50 UTC
 <!--END_SECTION:waka-->
 
 <hr>
